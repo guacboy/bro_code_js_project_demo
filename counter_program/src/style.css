@@ -1,0 +1,16 @@
+.center {
+    text-align: center;
+}
+
+.label {
+    font-size: 4em;
+}
+
+.button {
+    font-size: 1.5em;
+    background-color: grey;
+    color: whitesmoke;
+    border-radius: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}

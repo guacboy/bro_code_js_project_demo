@@ -1,0 +1,44 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial;
+}
+
+#center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#square {
+    background-color: white;
+    height: 40vh;
+    width: 50vh;
+    border-radius: 0.5vh;
+    text-align: center;
+    padding-top: 2vh;
+    box-shadow: 0.5vh 0.5vh 2vh grey;
+}
+
+#title_display {
+    color: #7593c5;
+}
+
+#number_input {
+    font-size: 2vh;
+    text-align: center;
+    height: 3.5vh;
+    border-radius: 0.5vh;
+}
+
+.conversion_button {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#submit_button {
+    color: white;
+    background-color: #fe3639;
+    border: none;
+    border-radius: 0.5vh;
+    padding: 1vh;
+}
