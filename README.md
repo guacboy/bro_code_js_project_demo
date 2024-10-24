@@ -9,6 +9,7 @@ This repository serves as a practice tool for learning JavaScript/HTML/CSS follo
 - <a href="counter_program">Counter Program</a>
 - <a href="number_guessing_game">Number Guessing Game</a>
 - <a href="temperature_conversion">Temperature Conversion Program</a>
+- <a href="dice_roller">Dice Roller Program</a>
 <h2>
   Downloading the Project Files
 </h2>
