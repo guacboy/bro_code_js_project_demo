@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+#length_input_div {
+    padding-bottom: 1em;
+}
+
+#symbol_checkbox_div {
+    padding-bottom: 1em;
+}
+
+#generate_button {
+    padding: 0.5em;
+}
