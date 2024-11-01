@@ -10,6 +10,7 @@ This repository serves as a practice tool for learning JavaScript/HTML/CSS follo
 - <a href="number_guessing_game">Number Guessing Game</a>
 - <a href="temperature_conversion">Temperature Conversion Program</a>
 - <a href="dice_roller">Dice Roller Program</a>
+- <a href="random_password_generator">Random Password Generator</a>
 <h2>
   Downloading the Project Files
 </h2>
