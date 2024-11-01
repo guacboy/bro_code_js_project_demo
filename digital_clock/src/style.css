@@ -1,0 +1,13 @@
+#clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#current-time {
+    text-align: center;
+    font-size: 8em;
+    background-color: rgba(44, 44, 44, 0.1);
+    width: 100%;
+}
