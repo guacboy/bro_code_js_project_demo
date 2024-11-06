@@ -1,0 +1,30 @@
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#calculator {
+    background-color: #262626;
+    width: 10vw;
+    height: 35vh;
+    border-radius: 1em;
+    padding-top: 0.1em;
+    padding-left: 1em;
+}
+
+button {
+    font-size: 1em;
+    color: white;
+    border: none;
+    border-radius: 1em;
+    padding: 0.75em;
+    margin: 0.2em;
+}
+
+.button-number {
+    background-color: #4d4d4d;
+}
+
+.button-operator {
+    background-color: #ff9f26;
+}

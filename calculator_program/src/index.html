@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator Program</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="calculator">
+        <div>
+            <h1 id="number-display">0</h1>
+        </div>
+        <div>
+            <button class="button-operator" onclick="display_value('+')">+</button>
+            <button class="button-number" onclick="display_value('7')">7</button>
+            <button class="button-number" onclick="display_value('8')">8</button>
+            <button class="button-number" onclick="display_value('9')">9</button>
+        </div>
+        <div>
+            <button class="button-operator" onclick="display_value('-')">-</button>
+            <button class="button-number" onclick="display_value('4')">4</button>
+            <button class="button-number" onclick="display_value('5')">5</button>
+            <button class="button-number" onclick="display_value('6')">6</button>
+        </div>
+        <div>
+            <button class="button-operator" onclick="display_value('*')">*</button>
+            <button class="button-number" onclick="display_value('1')">1</button>
+            <button class="button-number" onclick="display_value('2')">2</button>
+            <button class="button-number" onclick="display_value('3')">3</button>
+        </div>
+        <div>
+            <button class="button-operator" onclick="display_value('/')">/</button>
+            <button class="button-number" onclick="display_value('0')">0</button>
+            <button class="button-number" onclick="display_value('.')">.</button>
+            <button class="button-number" onclick="display_total_value()">=</button>
+        </div>
+        <div class="buttons">
+            <button class="button-operator" onclick="clear_display()">C</button>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
