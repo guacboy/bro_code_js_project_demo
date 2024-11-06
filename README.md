@@ -12,6 +12,7 @@ This repository serves as a practice tool for learning JavaScript/HTML/CSS follo
 - <a href="dice_roller">Dice Roller Program</a>
 - <a href="random_password_generator">Random Password Generator</a>
 - <a href="digital_clock">Digital Clock Program</a>
+- <a href="calculator_program">Calculator Program</a>
 <h2>
   Downloading the Project Files
 </h2>
