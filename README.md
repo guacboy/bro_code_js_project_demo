@@ -13,6 +13,7 @@ This repository serves as a practice tool for learning JavaScript/HTML/CSS follo
 - <a href="random_password_generator">Random Password Generator</a>
 - <a href="digital_clock">Digital Clock Program</a>
 - <a href="calculator_program">Calculator Program</a>
+- <a href="rock_paper_scissors_game">Rock Paper Scissors Game</a>
 <h2>
   Downloading the Project Files
 </h2>
