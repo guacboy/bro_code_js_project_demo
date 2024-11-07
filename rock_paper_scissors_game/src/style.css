@@ -1,0 +1,26 @@
+img {
+    width: 5em;
+    height: 5em;
+    object-fit: cover;   
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    background-color: #13b0fd;
+    border-radius: 10em;
+}
+
+button:hover{
+    background-color: #64cdfc;
+}
+
+.green-text{
+    color: #3cd470;
+}
+
+.red-text{
+    color: #a24d60;
+}
