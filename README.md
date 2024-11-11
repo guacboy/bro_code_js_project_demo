@@ -1,7 +1,7 @@
 <h1>
   Bro Code's Project Demos (JavaScript Edition)
 </h1>
-This repository serves as a practice tool for learning JavaScript/HTML/CSS following Bro Code's <a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4">JavaScript Full Course</a>. It is intended purely for educational purposes and has no plans for further development. Please note that this repository is not affiliated with Bro Code.
+This repository serves as a practice tool for learning JavaScript (with less focus on HTML/CSS) following Bro Code's <a href="https://www.youtube.com/watch?v=lfmg-EJ8gm4">JavaScript Full Course</a>. It is intended purely for educational purposes and has no plans for further development. Please note that this repository is not affiliated with Bro Code.
 <h2>
   Projects Included
 </h2>
@@ -14,6 +14,7 @@ This repository serves as a practice tool for learning JavaScript/HTML/CSS follo
 - <a href="digital_clock">Digital Clock Program</a>
 - <a href="calculator_program">Calculator Program</a>
 - <a href="rock_paper_scissors_game">Rock Paper Scissors Game</a>
+- <a href="image_slider">Image Slider</a>
 <h2>
   Downloading the Project Files
 </h2>
