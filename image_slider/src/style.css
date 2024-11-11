@@ -1,0 +1,16 @@
+img {
+    width: 50%;
+    height: 50%;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-family: bold;
+    border: none;
+    padding: 2em;
+}
+
+#center {
+    text-align: center;
+}
